@@ -11,11 +11,11 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # ===================== TOKEN =====================
-TOKEN = "7504126846:AAGbqGdoit5lpBea7CyeUfoKz7K7LRseYVs"
+TOKEN = "8524636877:AAHz73Z2SdjUoTotM9W-NkYn_1v1nRUvIUE"
 
 # ===================== API URLs =====================
 VEHICLE_API = "https://anupvehicleinfo07.vercel.app/lookup"
-PHONE_API = "https://source-code-api.vercel.app/"
+PHONE_API = "https://abbasbot.vercel.app/"
 IP_API = "http://ip-api.com/json/"
 BIN_API = "https://lookup.binlist.net/"
 
