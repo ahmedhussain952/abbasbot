@@ -15,7 +15,7 @@ TOKEN = "8524636877:AAHz73Z2SdjUoTotM9W-NkYn_1v1nRUvIUE"
 
 # ===================== API URLs =====================
 VEHICLE_API = "https://anupvehicleinfo07.vercel.app/lookup"
-PHONE_API = "https://abbasbot.vercel.app/"
+PHONE_API = "https://abbasbot.vercel.app/info"
 IP_API = "http://ip-api.com/json/"
 BIN_API = "https://lookup.binlist.net/"
 
